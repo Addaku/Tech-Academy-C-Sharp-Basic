@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\MathApp\MathApp\obj\Debug\MathApp.pdb
