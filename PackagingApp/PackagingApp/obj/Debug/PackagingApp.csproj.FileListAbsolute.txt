@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\bin\Debug\PackagingApp.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\bin\Debug\PackagingApp.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\bin\Debug\PackagingApp.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\obj\Debug\PackagingApp.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\obj\Debug\PackagingApp.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\obj\Debug\PackagingApp.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\PackagingApp\PackagingApp\obj\Debug\PackagingApp.pdb
