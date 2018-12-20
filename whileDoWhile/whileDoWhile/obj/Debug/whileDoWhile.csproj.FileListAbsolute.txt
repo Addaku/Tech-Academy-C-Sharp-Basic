@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\bin\Debug\whileDoWhile.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\whileDoWhile\whileDoWhile\obj\Debug\whileDoWhile.pdb
