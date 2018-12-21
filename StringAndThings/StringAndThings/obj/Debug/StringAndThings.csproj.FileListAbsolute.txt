@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\bin\Debug\StringAndThings.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\bin\Debug\StringAndThings.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\bin\Debug\StringAndThings.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\obj\Debug\StringAndThings.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\obj\Debug\StringAndThings.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\obj\Debug\StringAndThings.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\StringAndThings\StringAndThings\obj\Debug\StringAndThings.pdb
