@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\bin\Debug\FruitLoops.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\bin\Debug\FruitLoops.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\bin\Debug\FruitLoops.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\obj\Debug\FruitLoops.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\obj\Debug\FruitLoops.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\obj\Debug\FruitLoops.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\FruitLoops\FruitLoops\obj\Debug\FruitLoops.pdb
