@@ -57,7 +57,7 @@ namespace FruitLoops
                 "The Final sentence is the third."
             };
 
-            Console.WriteLine("Search for a word: ");
+            Console.Write("Search for a word: ");
             string wordSearch = Console.ReadLine();
             int check = 0;
 
@@ -67,15 +67,12 @@ namespace FruitLoops
                 {
                     check++;
                     Console.WriteLine(check);
-                    break;
                 }
             }
             if (check == 0)
             {
                 Console.WriteLine("Results not found.");
             }
-
-
             Console.ReadLine();
 
             // 9-10
@@ -86,34 +83,19 @@ namespace FruitLoops
                 "Common string"
             };
 
-            Console.WriteLine("Search for a word: ");
+            Console.Write("Search for a word: ");
             string wordSearched = Console.ReadLine();
-            int check1 = 0;
             int locateNum = 0;
+            int check1 = 0;
 
             foreach (string twin in twinList)
             {
-                int twins = 0;
-                foreach (string twinString in twinList)
+                if (twin.Contains(wordSearched))
                 {
-                    if (twin == twinString)
-                    {
-                        twins++;
-                    }
-                }
-                if (twins > 1)
-                {
+                    check1++;
                     Console.WriteLine(locateNum);
                 }
                 locateNum++;
-            }
-
-            foreach (string words in twinList)
-            {
-                if (words.Contains(wordSearched))
-                {
-                    check1++;
-                }
             }
             if (check1 == 0)
             {
@@ -124,12 +106,11 @@ namespace FruitLoops
             //11
             List<string> duped = new List<string>
             {
-                "one",
                 "two",
+                "one",
                 "two",
                 "three"
             };
-
 
             foreach (string dupe in duped)
             {
