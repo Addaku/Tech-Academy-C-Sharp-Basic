@@ -10,6 +10,7 @@ namespace FruitLoops
     {
         static void Main(string[] args)
         {
+            // 1
             string[] stringArray1 = { "word1 ", "word2 ", "word3 " };
             Console.WriteLine("Enter a word.");
             string word = Console.ReadLine();
@@ -21,7 +22,7 @@ namespace FruitLoops
             }
 
             Console.ReadLine();
-
+            // 2-3
             int LoopNum = 0;
             bool BoolLoop = true;
             while (BoolLoop)
@@ -34,21 +35,21 @@ namespace FruitLoops
                 }
             }
             Console.ReadLine();
-
+            // 4
             for (int j = 0; j < 5; j++)
             {
                 Console.WriteLine("Hello ");
             }
 
             Console.ReadLine();
-
+            // 5
             for (int k = 0; k <= 5; k++)
             {
                 Console.WriteLine("Mello ");
             }
 
             Console.ReadLine();
-
+            // 6-8
             List<string> Index = new List<string>
             {
                 "Sentence one.",
@@ -65,7 +66,7 @@ namespace FruitLoops
                 if (wordFound.Contains(wordSearch))
                 {
                     check++;
-                    Console.WriteLine(wordFound);
+                    Console.WriteLine(check);
                     break;
                 }
             }
@@ -77,6 +78,7 @@ namespace FruitLoops
 
             Console.ReadLine();
 
+            // 9-10
             List<string> twinList = new List<string>
             {
                 "Unique string",
@@ -87,7 +89,8 @@ namespace FruitLoops
             Console.WriteLine("Search for a word: ");
             string wordSearched = Console.ReadLine();
             int check1 = 0;
-            
+            int locateNum = 0;
+
             foreach (string twin in twinList)
             {
                 int twins = 0;
@@ -100,8 +103,9 @@ namespace FruitLoops
                 }
                 if (twins > 1)
                 {
-                    Console.WriteLine(twin);
+                    Console.WriteLine(locateNum);
                 }
+                locateNum++;
             }
 
             foreach (string words in twinList)
@@ -117,6 +121,7 @@ namespace FruitLoops
             }
             Console.ReadLine();
 
+            //11
             List<string> duped = new List<string>
             {
                 "one",
@@ -124,12 +129,12 @@ namespace FruitLoops
                 "two",
                 "three"
             };
-            
+
 
             foreach (string dupe in duped)
             {
                 int duplicate = 0;
-                foreach( string doop in duped)
+                foreach (string doop in duped)
                 {
                     if (dupe == doop)
                     {
