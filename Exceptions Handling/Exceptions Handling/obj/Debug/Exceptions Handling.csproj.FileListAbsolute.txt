@@ -1,0 +1,6 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\bin\Debug\Exceptions Handling.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\bin\Debug\Exceptions Handling.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\bin\Debug\Exceptions Handling.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\obj\Debug\Exceptions Handling.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\obj\Debug\Exceptions Handling.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Exceptions Handling\Exceptions Handling\obj\Debug\Exceptions Handling.pdb
