@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\obj\Debug\OnMethods.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\obj\Debug\OnMethods.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\bin\Debug\OnMethods.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\bin\Debug\OnMethods.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\bin\Debug\OnMethods.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\obj\Debug\OnMethods.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\OnMethods\OnMethods\obj\Debug\OnMethods.pdb
