@@ -1,0 +1,6 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
