@@ -1,0 +1,7 @@
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\bin\Debug\OnMethods3.exe.config
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\bin\Debug\OnMethods3.exe
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\bin\Debug\OnMethods3.pdb
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\obj\Debug\OnMethods3.csprojAssemblyReference.cache
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\obj\Debug\OnMethods3.csproj.CoreCompileInputs.cache
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\obj\Debug\OnMethods3.exe
+C:\Users\Addak\source\repos\OnMethods3\OnMethods3\obj\Debug\OnMethods3.pdb
