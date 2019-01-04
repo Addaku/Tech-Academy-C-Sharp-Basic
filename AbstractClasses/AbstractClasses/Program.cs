@@ -10,7 +10,7 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee()
+            Person person = new Employee()
             {
                 FirstName = "Sample",
                 LastName = "Student"

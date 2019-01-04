@@ -8,6 +8,9 @@ namespace AbstractClasses
 {
     public class Employee : Person
     {
-        
+        public override void Sayname()
+        {
+            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
+        }
     }
 }
