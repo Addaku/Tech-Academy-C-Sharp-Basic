@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Generics\Generics\obj\Debug\Generics.pdb
