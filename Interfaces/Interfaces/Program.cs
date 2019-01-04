@@ -10,36 +10,14 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Employee<string> strings = new Employee<string>
-            {
-                Things = new List<string>() { "one", "two", "three" }
-            };
 
-            Employee<int> intergers = new Employee<int>
-            {
-                Things = new List<int>() { 1, 2, 3 }
-            };
-
-            foreach (string thing in strings.Things)
-            {
-                Console.WriteLine(thing);
-            }
-
-            foreach (int thing in intergers.Things)
-            {
-                Console.WriteLine(thing);
-            }
-
-            Employee<string> person1 = new Employee<string>()
+            Employee person1 = new Employee()
             {
                 FirstName = "Sample",
                 LastName = "Student"
             };
-
-
-
             person1.SayName();
-            IQuittable quit = new Employee<string>();
+            IQuittable quit = new Employee();
             quit.Quit();
 
             Console.ReadLine();
