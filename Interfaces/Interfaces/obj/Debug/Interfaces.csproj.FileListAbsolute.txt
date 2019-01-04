@@ -1,0 +1,7 @@
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
