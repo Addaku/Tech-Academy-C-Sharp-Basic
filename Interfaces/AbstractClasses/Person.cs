@@ -11,10 +11,6 @@ namespace AbstractClasses
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-
-        public void Sayname()
-        {
-            Console.WriteLine("Name: {0} {1}", FirstName, LastName);
-        }
+        public abstract void SayName();
     }
 }

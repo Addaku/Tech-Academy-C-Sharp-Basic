@@ -10,18 +10,20 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee()
+            Employee person1 = new Employee()
             {
                 FirstName = "Sample",
-                LastName = "Student"
+                LastName = "Student",
+                Id = 12345
 
             };
-            person.Sayname();
-
+            person1.SayName();
             IQuittable quit = new Employee();
             quit.Quit();
             
             Console.ReadLine();
         }
+
+
     }
 }

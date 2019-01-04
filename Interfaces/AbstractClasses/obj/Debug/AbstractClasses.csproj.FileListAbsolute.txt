@@ -12,3 +12,10 @@ C:\Users\Addak\OneDrive\Documents\C# Projects\AbstractClasses - Copy\AbstractCla
 C:\Users\Addak\OneDrive\Documents\C# Projects\AbstractClasses - Copy\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
 C:\Users\Addak\OneDrive\Documents\C# Projects\AbstractClasses - Copy\AbstractClasses\obj\Debug\AbstractClasses.exe
 C:\Users\Addak\OneDrive\Documents\C# Projects\AbstractClasses - Copy\AbstractClasses\obj\Debug\AbstractClasses.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Addak\OneDrive\Documents\C# Projects\Interfaces\AbstractClasses\obj\Debug\AbstractClasses.pdb
