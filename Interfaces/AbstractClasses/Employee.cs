@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace AbstractClasses
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
 
         public int Id { get; set; }
+        public List<T> Things { get; set; }
 
         public void Quit()
         {
@@ -21,13 +22,13 @@ namespace AbstractClasses
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
         }
 
-        public static bool operator ==(Employee employee1, Employee employee2)
+        public static bool operator ==(Employee<T> employee1, Employee<T> employee2)
         {
             bool dupe = (employee1.Id == employee2.Id);
             return dupe;
         }
 
-        public static bool operator !=(Employee employee1, Employee employee2)
+        public static bool operator !=(Employee<T> employee1, Employee<T> employee2)
         {
             bool dupe = (employee1.Id != employee2.Id);
             return dupe;
