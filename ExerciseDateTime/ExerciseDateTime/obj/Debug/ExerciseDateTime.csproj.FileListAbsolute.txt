@@ -1,0 +1,6 @@
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\bin\Debug\ExerciseDateTime.exe.config
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\bin\Debug\ExerciseDateTime.exe
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\bin\Debug\ExerciseDateTime.pdb
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\obj\Debug\ExerciseDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\obj\Debug\ExerciseDateTime.exe
+C:\Users\Addak\source\repos\ExerciseDateTime\ExerciseDateTime\obj\Debug\ExerciseDateTime.pdb
